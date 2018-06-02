@@ -1,0 +1,39 @@
+C:\Users\王灿辉\Desktop\C#\Projects\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\王灿辉\Desktop\C#\Projects\Tetris\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\王灿辉\Desktop\C#\Projects\Tetris\Tetris\obj\Debug\Tetris.Form1.resources
+C:\Users\王灿辉\Desktop\C#\Projects\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+C:\Users\王灿辉\Desktop\C#\Projects\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\王灿辉\Desktop\C#\Projects\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\王灿辉\Desktop\C#\Projects\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\王灿辉\Desktop\C#\Projects\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\王灿辉\Desktop\C#\Projects\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\kakud\Downloads\Tetris-master\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\kakud\Downloads\Tetris-master\Tetris\bin\Debug\Tetris.exe
+C:\Users\kakud\Downloads\Tetris-master\Tetris\bin\Debug\Tetris.pdb
+C:\Users\kakud\Downloads\Tetris-master\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\kakud\Downloads\Tetris-master\Tetris\obj\Debug\Tetris.Form1.resources
+C:\Users\kakud\Downloads\Tetris-master\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\kakud\Downloads\Tetris-master\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+C:\Users\kakud\Downloads\Tetris-master\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\kakud\Downloads\Tetris-master\Tetris\obj\Debug\Tetris.exe
+C:\Users\kakud\Downloads\Tetris-master\Tetris\obj\Debug\Tetris.pdb
+C:\Users\kakud\Desktop\Marianowe PO\Tetris-master\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\kakud\Desktop\Marianowe PO\Tetris-master\Tetris\bin\Debug\Tetris.exe
+C:\Users\kakud\Desktop\Marianowe PO\Tetris-master\Tetris\bin\Debug\Tetris.pdb
+C:\Users\kakud\Desktop\Marianowe PO\Tetris-master\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\kakud\Desktop\Marianowe PO\Tetris-master\Tetris\obj\Debug\Tetris.Form1.resources
+C:\Users\kakud\Desktop\Marianowe PO\Tetris-master\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\kakud\Desktop\Marianowe PO\Tetris-master\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+C:\Users\kakud\Desktop\Marianowe PO\Tetris-master\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\kakud\Desktop\Marianowe PO\Tetris-master\Tetris\obj\Debug\Tetris.exe
+C:\Users\kakud\Desktop\Marianowe PO\Tetris-master\Tetris\obj\Debug\Tetris.pdb
+C:\Users\maria\Desktop\PWr\tetris\Marianowe PO\Tetris-master\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\maria\Desktop\PWr\tetris\Marianowe PO\Tetris-master\Tetris\bin\Debug\Tetris.exe
+C:\Users\maria\Desktop\PWr\tetris\Marianowe PO\Tetris-master\Tetris\bin\Debug\Tetris.pdb
+C:\Users\maria\Desktop\PWr\tetris\Marianowe PO\Tetris-master\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\maria\Desktop\PWr\tetris\Marianowe PO\Tetris-master\Tetris\obj\Debug\Tetris.Form1.resources
+C:\Users\maria\Desktop\PWr\tetris\Marianowe PO\Tetris-master\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\maria\Desktop\PWr\tetris\Marianowe PO\Tetris-master\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\maria\Desktop\PWr\tetris\Marianowe PO\Tetris-master\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\PWr\tetris\Marianowe PO\Tetris-master\Tetris\obj\Debug\Tetris.exe
+C:\Users\maria\Desktop\PWr\tetris\Marianowe PO\Tetris-master\Tetris\obj\Debug\Tetris.pdb
