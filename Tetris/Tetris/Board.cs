@@ -8,7 +8,9 @@ using System.Drawing;
 namespace Tetris
 {
     public class Board
+        //klasa tworząca tablice, czy raczej " siatkę" na planszy, dzięki której klocki będą przesuwały i obracały się w sposób bardziej efektywny
     {
+        //deklaracja "lekkiego" obiektu Cell (dlatego struktura)
         public struct Cell
         {
             public int p;

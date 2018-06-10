@@ -15,8 +15,9 @@ namespace Tetris
     {
         Timer fresh; 
         Game game;
-        Game game2; 
-        
+        Game game2;
+        private TimeSpan timee = new TimeSpan();
+
 
         int map_cell_width;
         int map_cell_height;
@@ -43,7 +44,7 @@ namespace Tetris
             fresh = new Timer();
             fresh.Tick += new System.EventHandler(fresh_Tick);
 
-            fresh.Interval = 50 / 3;
+            fresh.Interval = 100;
             fresh.Enabled = true;
 
             
@@ -56,14 +57,18 @@ namespace Tetris
         private void fresh_Tick(object sender, EventArgs e)
         {
             Draw();
+            timee = timee.Add(TimeSpan.FromMilliseconds(100));
+
+            time.Text = string.Format("{0}:{1}", timee.Minutes, timee.Seconds);
+
         }
-        
+
         private void Draw() 
         {
             //liczenie punktów
             AlphaScore.Text = Convert.ToString(game.score);
             BetaScore.Text = Convert.ToString(game2.score);
-
+          
             Font font = new Font("Arial", 16);
             SolidBrush drawBrush = new SolidBrush(Color.White);
             PointF drawPoint = new PointF(380.0F, 170.0F);

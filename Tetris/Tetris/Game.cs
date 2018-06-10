@@ -7,8 +7,9 @@ using System.Drawing;
 using System.Windows.Forms;
 
 namespace Tetris
+    //Klasa gry, zbierająca zachowanie klocków na planszy
 {
-    
+    //typ wyliczeniowy 
     public enum Towards { UP = 0, RIGHT, DOWN, LEFT };
     class Game
     {

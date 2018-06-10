@@ -39,6 +39,9 @@
             this.BetaScore = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.time = new System.Windows.Forms.Label();
+            this.label8 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.SuspendLayout();
@@ -147,12 +150,45 @@
             this.label2.TabIndex = 14;
             this.label2.Text = "Player Beta control: arrows";
             // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Stencil", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.Location = new System.Drawing.Point(750, 125);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(66, 22);
+            this.label7.TabIndex = 15;
+            this.label7.Text = "time: ";
+            // 
+            // time
+            // 
+            this.time.AutoSize = true;
+            this.time.Font = new System.Drawing.Font("Stencil", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.time.Location = new System.Drawing.Point(750, 159);
+            this.time.Name = "time";
+            this.time.Size = new System.Drawing.Size(26, 22);
+            this.time.TabIndex = 16;
+            this.time.Text = "0 ";
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Font = new System.Drawing.Font("Stencil", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label8.Location = new System.Drawing.Point(797, 159);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(21, 22);
+            this.label8.TabIndex = 17;
+            this.label8.Text = "s";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ScrollBar;
             this.ClientSize = new System.Drawing.Size(1658, 740);
+            this.Controls.Add(this.label8);
+            this.Controls.Add(this.time);
+            this.Controls.Add(this.label7);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.BetaScore);
@@ -189,6 +225,9 @@
         private System.Windows.Forms.Label BetaScore;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.Label time;
+        private System.Windows.Forms.Label label8;
     }
 }
 

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Drawing;
 
 namespace Tetris
-{
+{   //uniwersalna klasa kocka
     //Każdy klocek ma pewne wspólne cechy i "umiejętnosci", różnią się międzysobą tylko kształtem (Mod) i kolorem.
     public class Block
     {
@@ -28,6 +28,7 @@ namespace Tetris
             MoveBlock();
         }
     
+        //klocek purusza się oraz obraca
         public void RotateBlock()
         {
             for (int i = 0; i < 5; i++)
